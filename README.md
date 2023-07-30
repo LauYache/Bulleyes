@@ -6,9 +6,6 @@ This is a game based on the classic darts throw, developed for iOS in Swift with
 ## Author 
 **Laura Yachelini**
 
-## Ver ejemplo en vivo | See live example
-
-https://lauyache.github.io/Bulleyes/
 
 ## Contact | Contacto
 
